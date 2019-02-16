@@ -5,7 +5,7 @@ This program will allow a user to generate a word search by either entering the 
 
 If you are reading words in from a file, make sure that each word is on its own line.
 
-Once a word search has been generated, a solution to the puzzle is availale by selecting 's' from the main menu. Likewise, if a puzzle is saved to a file, a solution will be icluded in the file.
+Once a word search has been generated, a solution to the puzzle is availale by selecting 's' from the main menu. Likewise, if a puzzle is saved to a file, a solution will be included in the file.
 
 
 
