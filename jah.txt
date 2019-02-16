@@ -1,0 +1,34 @@
+
+ [ Word Search ]
+ s  p  l  i  f  f  x  n  p  i  e  s  c  b 
+ f  j  i  m  m  y  c  l  i  f  f  j  u  f 
+ a  x  b  d  r  e  j  p  b  u  n  y  s  n 
+ o  w  o  l  z  t  x  a  b  q  i  i  p  m 
+ v  a  b  b  l  a  w  k  m  b  g  j  t  o 
+ i  i  m  r  i  x  u  s  a  i  r  m  n  u 
+ p  l  a  p  o  a  h  i  j  r  d  w  w  a 
+ f  e  r  y  n  m  s  x  r  a  j  e  r  b 
+ w  r  l  e  c  p  z  z  d  a  h  a  l  z 
+ g  s  e  s  m  t  c  i  d  m  e  k  a  v 
+ w  e  y  b  l  r  r  g  o  j  w  w  f  c 
+ g  g  u  w  p  g  l  o  w  n  y  x  c  a 
+ f  x  f  x  f  v  z  x  r  m  b  z  i  n 
+ r  x  v  g  e  g  b  u  t  m  t  d  o  t 
+
+
+[ Word Search Solution ]
+ s  p  l  i  f  f  -  -  -  -  -  -  -  - 
+ -  j  i  m  m  y  c  l  i  f  f  -  -  - 
+ -  -  b  -  -  -  -  -  -  -  -  -  -  - 
+ -  w  o  -  -  -  -  -  -  -  -  -  -  - 
+ -  a  b  -  l  -  -  -  -  -  -  -  -  - 
+ -  i  m  -  i  -  -  -  -  -  -  -  -  - 
+ -  l  a  -  o  -  -  -  j  -  -  -  -  - 
+ -  e  r  -  n  -  -  -  -  a  -  -  -  - 
+ -  r  l  -  -  -  z  -  -  -  h  -  -  - 
+ -  s  e  -  -  -  -  i  -  -  -  -  -  - 
+ -  -  y  -  -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  n  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
