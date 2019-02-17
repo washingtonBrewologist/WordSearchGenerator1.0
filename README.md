@@ -4,7 +4,7 @@ Contains: WordSearch class file and client program.
 
 This program will allow a user to generate a word search by either entering the words manually, or by having the words read in from a file. 
 
-[ Program notes ]
+# [ Program notes ]
 
 If you are reading words in from a file, make sure that each word is on its own line.
 
